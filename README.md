@@ -1,2 +1,2 @@
 # Demo-Learning
-First Repository to learn Github and Git usage
+Today i am creating this repository to learn the basic usage of git and github.
